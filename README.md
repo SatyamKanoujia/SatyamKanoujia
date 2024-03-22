@@ -40,16 +40,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamkanoujia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="mayank-kr-sh" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=325 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-kr-sh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5&exclude_repo=github-readme-stats" alt="mayank-kr-sh" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamkanoujia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="satyamkanoujia" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=325 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkanoujia&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5&exclude_repo=github-readme-stats" alt="satyamkanoujia" />
  
 </div>
 
 <br/><br/>
 <hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkanoujia&" alt="satyamkanoujia" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkanoujia&" alt="GitHub Streak" />
+</p>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
 </h3>
+
+
 
